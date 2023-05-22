@@ -1,2 +1,2 @@
 Siin saab hoida erinevaid koodi majutust ning versioonihaldust.
-Saaksin kasutada GitHubi skriptite haldamisega
+Saaksin kasutada GitHubi skriptite haldamisega.
