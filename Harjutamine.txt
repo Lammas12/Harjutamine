@@ -1,1 +1,2 @@
-Siin saab hoida erinevaid skripte, mida tavaliselt hoiavad tarkvaraarendajad. 
+Siin saab hoida erinevaid koodi majutust ning versioonihaldust.
+Saaksin kasutada GitHubi skriptite haldamisega
